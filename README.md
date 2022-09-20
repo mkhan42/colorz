@@ -1,2 +1,2 @@
-# readocs
+# colorz
 a firefox extension
