@@ -1,2 +1,2 @@
-# colorz
-a firefox extension
+# Colorz
+
